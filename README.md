@@ -12,3 +12,6 @@ The goal is to evaluate model performance, scalability, and applicability across
 To run the project, simply execute:
 ```bash
 python train.py
+```
+
+This file will train and test the code.
